@@ -1,0 +1,5 @@
+enter_sentence = input("Enter the sentence: ")
+word_in_sentence = input("enter the word from the sentence to replace: ")
+new_word = input("enter the new word that you want to replace with: ")
+new_sentence = enter_sentence.replace(word_in_sentence, new_word)
+print("the new sentence is ", new_sentence)

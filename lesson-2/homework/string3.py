@@ -1,0 +1,5 @@
+enter_string = input("Enter a string:")
+length_of_string = len(enter_string)
+upper = enter_string.upper()
+lower = enter_string.lower()
+print (f"the length of a string is: {length_of_string}", f"after making all of the letters in upper case: {upper}", f"after making all of the letters in lower case:{lower}")
