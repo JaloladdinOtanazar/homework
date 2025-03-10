@@ -1,0 +1,8 @@
+word cound report
+total words: 6
+top 5 words
+love - 2
+i - 1
+you - 1
+the - 1
+most - 1
