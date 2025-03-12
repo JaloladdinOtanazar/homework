@@ -1,2 +1,1 @@
-1001, John, software enginner, 1356
-10000, me, you, 01322
+1002, john, soft, 1
